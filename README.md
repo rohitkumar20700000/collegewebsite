@@ -13,7 +13,7 @@ This project is a simple website for Saveetha Engineering College. It includes p
 
 
 ## Project Structure
-![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
+![OUTPUT](https://github.com/rohitkumar20700000/collegewebsite/blob/main/home.png)
 ![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
 ![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
 ![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
