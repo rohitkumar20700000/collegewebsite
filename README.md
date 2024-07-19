@@ -10,10 +10,11 @@ This project is a simple website for Saveetha Engineering College. It includes p
   - [Academics](#academics)
   - [Admission](#admission)
   - [Gallery](#gallery)
-- [How to Run](#how-to-run)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
+![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
+![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
+![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
+![OUTPUT](https://github.com/rohitkumar20700000/dayremainderwebsite/blob/main/output.png?raw=true)
 
